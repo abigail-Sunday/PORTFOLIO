@@ -1,0 +1,25 @@
+ 
+            table,th,td
+             {border:double 2.4px; border-collapse: collapse;}
+             
+*{background-color: rgb(135, 117, 117)
+}
+        .general{color: black;}
+        .para{text-align: center; color: rgb(39, 34, 37);}
+        #para1{color: blue;}
+      body{
+        background-image: url("vipgc_512.webp");
+        background-repeat:no-repeat ;
+        background-position:right top ;
+        background-attachment: fixed;
+        
+      }
+      div
+      {border: 3px;
+      background-color: #641f1f; 
+      margin: 500px;padding: 10px; 
+}
+
+        
+
+      
